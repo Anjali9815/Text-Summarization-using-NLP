@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 nlpvenv/
+logs/
 
 # C extensions
 *.so
