@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "NLPTextSummarizationProject"
+REPO_NAME = "Text-Summarization-using-NLP"
 AUTHOR_USER_NAME = "Anjali Jha"
-SRC_REPO = "NLP_TEXT_Summarization"
+SRC_REPO = "txt_summarizer"
 AUTHOR_EMAIL = "anjalirjha@gmail.com"
 
 
